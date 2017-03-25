@@ -1,0 +1,37 @@
+{
+  "name": "poney",
+  "version": "0.0.1",
+  "description": "Les poneys sont des êtres vivants majestueux, enﬁn surtout à l’intérieur et ils ont donc le pouvoir de se transformer en licorne lorsque ces derniers se sont suﬃsamment reposés. Elles demandent donc au gérant de leur groupe de les aider à se transformer. Deadpool quand à lui a besoin de licorne pour se \"régénérer\"... C’est pourquoi il possède un groupe de poneys! Et les aide donc à devenir des licornes. Cependant une fois qu’il s’est \"régénéré\" la licorne en question n’est plus pure et redevient un poney. Le plus grand ami de Deadpool (SpiderMan) quant à lui adore faire du poney ce qui à tendance à les fatiguer. Si il utilise une licorne celle-ci redevient un poney.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poney"
+  ],
+  "author": "Sara Abbasoglu, Jalil Mankouri",
+  "license": "ISC",
+  "xo": {
+    "esnext": true,
+    "envs": [
+      "node",
+      "mocha"
+    ],
+    "space": 2,
+    "rules": {
+      "max-len": [
+        "error",
+        80,
+        2
+      ]
+    },
+    "ignores": [
+      "Gruntfile.js"
+    ]
+  }
+
+}
+
+
+
+
